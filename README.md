@@ -21,7 +21,7 @@ If your output is
 ============================ test session starts ===================================== 
 platform win32 -- Python 3.7.4, pytest-5.0.1, py-1.8.0, pluggy-0.12.0
 rootdir: D:\Projects\GitHub\LearningPython\Training
-collected 45 items                                                                                                                                                                                                        
+collected 45 items
 
 ArrayOperations_test.py ................                                       [ 35%] 
 DictOperations_test.py ..........                                              [ 57%] 
